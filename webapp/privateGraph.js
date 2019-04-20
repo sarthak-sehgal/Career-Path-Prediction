@@ -17,7 +17,7 @@ jobs.map(personObj => {
 
 function jobExists (jobObj) {
     for(let i=0; i<uniqueJobs.length; i++) {
-        if(JSON.stringify(uniqueJobs[i]) === JSON.stringify(jobObj)) {
+        if(compareJobs(uniqueJobs[i], jobObj)) {
             uniqueJobsCount[i]++;
             return true;
         }
@@ -32,8 +32,8 @@ window.onload = function () {
     jobs.map(personObj => {
         let personJobs = personObj.jobs;
         for (let i = personJobs.length - 1; i > 0; i--) {
-            let from = uniqueJobs.findIndex(job => JSON.stringify(job) === JSON.stringify(personJobs[i]));
-            let to = uniqueJobs.findIndex(job => JSON.stringify(job) === JSON.stringify(personJobs[i - 1]));
+            let from = uniqueJobs.findIndex(job => compareJobs(job, personJobs[i]));
+            let to = uniqueJobs.findIndex(job => compareJobs(job, personJobs[i-1]));
             graph.addEdge(from, to);
         }
     })
@@ -65,3 +65,10 @@ window.onload = function () {
         }
     })
 };
+
+function compareJobs (obj1, obj2) {
+    if(obj1.profession === obj2.profession && obj1.industry === obj2.industry && obj1.size === obj2.size) {
+        return true;
+    }
+    return false;
+}

@@ -142,7 +142,7 @@ AbstractEdge.prototype = {
 var EdgeFactory = function() {
     this.template = new AbstractEdge();
     this.template.style = new Object();
-    this.template.style.directed = false;
+    this.template.style.directed = true;
     this.template.weight = 1;
 };
 EdgeFactory.prototype = {

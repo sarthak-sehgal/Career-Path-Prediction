@@ -10437,7 +10437,7 @@ sizes.map(size => {
 
 function jobExists (jobObj) {
     for(let i=0; i<uniqueJobs.length; i++) {
-        if(JSON.stringify(uniqueJobs[i]) === JSON.stringify(jobObj)) {
+        if(compareJobs(uniqueJobs[i], jobObj)) {
             uniqueJobsCount[i]++;
             return true;
         }
@@ -10461,23 +10461,22 @@ document.getElementById("go").addEventListener("click", function () {
         size: toSize.value
     }
 
-    fromObj = JSON.stringify(fromObj);
-    toObj = JSON.stringify(toObj);
-    console.log(fromObj, toObj);
     let fromFound = false;
     let toFound = false;
     let fromIndex;
     let toIndex;
     uniqueJobs.map((jobObj, index) => {
-        if(fromObj === JSON.stringify(jobObj)) {
+        if(compareJobs(fromObj, jobObj)) {
             fromFound = true;
             fromIndex = index;
         }
-        if(toObj === JSON.stringify(jobObj)) {
+        if(compareJobs(toObj, jobObj)) {
             toFound = true;
             toIndex = index;
         }
     })
+    console.log(fromObj, fromIndex);
+    console.log(toIndex, toIndex);
     if(!fromFound)
         document.getElementById("error").innerHTML = "From not found!"
     else if (!toFound)
@@ -10628,7 +10627,7 @@ document.getElementById("go").addEventListener("click", function () {
                     for(let j=0; j<edges.length-1; j++) {
                         let finalWeight = edges[j].weight;
                         for(let k=j+1; k<edges.length; k++) {
-                            if(JSON.stringify(edges[k]) === JSON.stringify(edges[j])) {
+                            if(JSON.stringify(edges[j]) === JSON.stringify(edges[k])) {
                                 finalWeight += edges[k].weight;
                                 edges.splice(k, 1);
                                 k--;
@@ -10647,8 +10646,8 @@ document.getElementById("go").addEventListener("click", function () {
         jobs.map(personObj => {
             let personJobs = personObj.jobs;
             for (let i = personJobs.length - 1; i > 0; i--) {
-                let from = uniqueJobs.findIndex(job => JSON.stringify(job) === JSON.stringify(personJobs[i]));
-                let to = uniqueJobs.findIndex(job => JSON.stringify(job) === JSON.stringify(personJobs[i - 1]));
+                let from = uniqueJobs.findIndex(job => compareJobs(job, personJobs[i]));
+                let to = uniqueJobs.findIndex(job => compareJobs(job, personJobs[i-1]));
                 // console.log(from, to);
                 graph.addEdge(from, to);
             }
@@ -10656,7 +10655,7 @@ document.getElementById("go").addEventListener("click", function () {
          
         graph.addWeights();
         graph.removeDuplicates();
-        // graph.printGraph();
+        graph.printGraph();
         graph.dfs(fromIndex, toIndex);
         
         try {
@@ -10679,4 +10678,11 @@ document.getElementById("go").addEventListener("click", function () {
         }
     }
 })
+
+function compareJobs (obj1, obj2) {
+    if(obj1.profession === obj2.profession && obj1.industry === obj2.industry && obj1.size === obj2.size) {
+        return true;
+    }
+    return false;
+}
 },{"./private.json":1}]},{},[2]);
