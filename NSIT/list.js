@@ -1,0 +1,31 @@
+const vitArr = require('./profiles.json');
+const fs = require('fs');
+
+let finalArr = [];
+let jobTitles = [];
+
+vitArr.map((person, index) => {
+    if(person.jobs.length > 0) {
+        person.jobs.map(job => {
+            jobTitles.push(job.jobTitle);
+        })
+        finalArr.push(person);
+    }
+})
+
+fs.writeFile('./profiles.json', JSON.stringify(finalArr, null, 4), (err) => {
+    if(err)
+        console.log(err);
+    else
+        console.log("profiles.json updates")
+});
+
+let string = '';
+jobTitles.map(title => string+=title+'\n');
+
+fs.writeFile('./OriginalPositions.txt', string, (err) => {
+    if(err)
+        console.log(err);
+    else
+        console.log("./OriginalPositions.txt updates")
+})
