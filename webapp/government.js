@@ -1,4 +1,4 @@
-let jobs = require('./private.json');
+let jobs = require('./government.json');
 let uniqueJobs = []; // unique jobs; parameters: profession, industry, size
 let uniqueJobsCount = [];
 let count = 0;

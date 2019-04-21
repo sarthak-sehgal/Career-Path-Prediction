@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>TSR Project | Government colleges</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html, body {
+            font-family: 'Arial', sans-serif;
+            background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+            background-size: cover;
+            background-position: 50% 50%;
+            color: #000;
+            min-height: 100vh;
+        }
+        .job {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #4BB543;
+            color: #fff;
+            padding: 15px;
+            margin: 10px;
+            font-size: 15px;
+            width: 400px;
+            border-radius: 5px;
+        }
+        .arrow {
+            font-size: 30px;
+        }
+        #shortestPath {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Government Colleges</h1>
+    <div>
+        <h1>From</h1>
+        Profession: 
+        <select id="fromProfession">
+            <option disabled selected>Select</option>
+        </select>
+        <br><br>
+        Industry: 
+        <select id="fromIndustry">
+            <option disabled selected>Select</option>
+        </select>
+        <br><br>
+        Size: 
+        <select id="fromSize">
+            <option disabled selected>Select</option>
+        </select>
+        <br><br>
+    </div>
+    <div>
+        <h1>To</h1>
+        Profession: 
+        <select id="toProfession">
+            <option disabled selected>Select</option>
+        </select>
+        <br><br>
+        Industry:
+        <select id="toIndustry">
+            <option disabled selected>Select</option>
+        </select>
+        <br><br>
+        Size: 
+        <select id="toSize">
+            <option disabled selected>Select</option>        
+        </select>
+        <br><br>
+    </div>
+    <br>
+    <button id="go">Go</button>
+    <br><br>
+    <div id="error"></div>
+    <div id="shortestPath">
+    </div>
+</body>
+<script src="governmentBundle.js"></script>
+</html>

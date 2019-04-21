@@ -10476,7 +10476,7 @@ document.getElementById("go").addEventListener("click", function () {
         }
     })
     console.log(fromObj, fromIndex);
-    console.log(toIndex, toIndex);
+    console.log(toObj, toIndex);
     if(!fromFound)
         document.getElementById("error").innerHTML = "From not found!"
     else if (!toFound)
@@ -10555,7 +10555,7 @@ document.getElementById("go").addEventListener("click", function () {
                     visited[i] = false;
         
                 this.path = {};
-                this.path[startingNode] = [startingNode];
+                this.path[startingNode] = {path: [startingNode], probability: 0};
         
                 this.DFSUtil(startingNode, visited, 1);
                 // console.log(this.paths);
@@ -10563,32 +10563,55 @@ document.getElementById("go").addEventListener("click", function () {
         
             // Recursive function which process and explore 
             // all the adjacent vertex of the vertex with which it is called 
-            DFSUtil(vert, visited, probability) {
+            DFSUtil(vert, visited) {
                 visited[vert] = true;
+                
                 if (vert === this.target) {
                     this.paths.push({
-                        probability: probability,
-                        path: this.path[vert]
+                        probability: this.path[vert].probability,
+                        path: this.path[vert].path
                     })
                 }
         
                 var get_neighbours = this.AdjList.get(vert);
         
                 for (var i in get_neighbours) {
-                    var get_elem = get_neighbours[i].vertex;
+                    let get_elem = get_neighbours[i].vertex;
+
                     if(get_elem === vert && get_elem !== this.target)
                         continue;
-        
-                    // console.log("Parent: " + vert + ", Child: " + get_elem);
-                    this.path[get_elem] = [...this.path[vert], get_elem];
+                        
+                    let probability = this.path[vert].probability;
+                    if(!probability)
+                        probability = 1;
                     probability *= get_neighbours[i].weight;
-                    if (!visited[get_elem])
-                        this.DFSUtil(get_elem, visited, probability);
-                    else if(get_elem === this.target)
-                        this.paths.push({
-                            probability: probability,
-                            path: this.path[get_elem]
-                        })
+
+                    if(this.path[get_elem] !== undefined) {
+                        if(probability > this.path[get_elem].probability && this.path[vert].path.findIndex(num => num === get_elem) === -1) {
+                            this.path[get_elem].path = [...this.path[vert].path, get_elem];
+                            this.path[get_elem].probability = probability;
+                            
+                            if (!visited[get_elem])
+                                this.DFSUtil(get_elem, visited, probability);
+                            else if(get_elem === this.target)
+                                this.paths.push({
+                                    probability: probability,
+                                    path: this.path[get_elem]
+                                })
+                        }
+                    } else {
+                        this.path[get_elem] = {};
+                        this.path[get_elem].path = [...this.path[vert].path, get_elem];
+                        this.path[get_elem].probability = probability;
+
+                        if (!visited[get_elem])
+                            this.DFSUtil(get_elem, visited, probability);
+                        else if(get_elem === this.target)
+                            this.paths.push({
+                                probability: probability,
+                                path: this.path[get_elem]
+                            })
+                    }
                 }
             }
         
@@ -10596,6 +10619,7 @@ document.getElementById("go").addEventListener("click", function () {
                 let probability = 0;
                 let length = Number.MAX_VALUE;
                 let path = [];
+                console.log(this.paths);
                 if(!this.paths || this.paths.length === 0) {
                     // throw new Error("No path found!");
                     return {
@@ -10660,6 +10684,7 @@ document.getElementById("go").addEventListener("click", function () {
         
         try {
             let shortestPath = graph.getShortestPath();
+            console.log(shortestPath);
             let div = document.getElementById("shortestPath");
             div.innerHTML += `<h1 id='probability'>Probability: ${shortestPath.probability}</h1>`
             shortestPath.path.map((i, index) => {
