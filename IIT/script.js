@@ -1,8 +1,9 @@
 const fs = require('fs');
-// const vitArr = require('./VITProfiles.json');
-// const vitCompanies = require('./VITCompanies.json');
-// const VITFinalWithSynsets = require('./VITFinalWithSynsets');
-// const VITClusters = require('./VITClusters.json');
+const arr = require('./IITProfiles.json');
+const arr2 = require('./ProfilesWithSynset.json');
+const companies = require('./companiesData.json');
+const finalWithSynsets = require('./FinalWithSynsets.json');
+const clusters = require('./clusters.json');
 // const VITFinal = require('./VITFinal.json');
 
 /*
@@ -30,7 +31,7 @@ fs.readFile("PositionsRenamed.txt", "utf-8", (err, data) => {
 
 /*
 // Assign each job a synset after getting output from wordnet.py and store only relevant info
-fs.readFile("VITPositionsSynset.txt", "utf-8", (err, data) => {
+fs.readFile("PositionsSynset.txt", "utf-8", (err, data) => {
     if(err) {
         console.log(err);
         return;
@@ -41,7 +42,7 @@ fs.readFile("VITPositionsSynset.txt", "utf-8", (err, data) => {
 
     let i=0;
     let finalArr = [];
-    vitArr.map((person, index) => {
+    arr.map((person, index) => {
         if(person.jobs.length > 0) {
             let jobArr = [];
             person.jobs.map(job => {
@@ -59,11 +60,11 @@ fs.readFile("VITPositionsSynset.txt", "utf-8", (err, data) => {
         }
     })
 
-    fs.writeFile('./VITProfiles.json', JSON.stringify(finalArr, null, 4), (err) => {
+    fs.writeFile('./ProfilesWithSynset.json', JSON.stringify(finalArr, null, 4), (err) => {
         if(err)
             console.log(err);
         else
-            console.log("VITProfiles.json updated with synsets")
+            console.log("ProfilesWithSynset.json updated with synsets")
     });
 })
 */
@@ -73,7 +74,7 @@ fs.readFile("VITPositionsSynset.txt", "utf-8", (err, data) => {
 let finalArr = [];
 let companiesMissing = '';
 let synsets = '';
-vitArr.map((person, index) => {
+arr2.map((person, index) => {
     if(person.jobs.length > 0) {
         let jobs = [];
         person.jobs.map(job => {
@@ -96,28 +97,28 @@ vitArr.map((person, index) => {
     }
 })
 
-fs.writeFile("VITCompaniesMissing.txt", companiesMissing, (err) => {
+fs.writeFile("CompaniesMissing.txt", companiesMissing, (err) => {
     if(err) {
         console.log(err);
         return;
     }
-    console.log("VITCompaniesMissing.txt updated");
+    console.log("CompaniesMissing.txt updated");
 })
 
-fs.writeFile("VITFinalWithSynsets.json", JSON.stringify(finalArr, null, 2), (err) => {
+fs.writeFile("FinalWithSynsets.json", JSON.stringify(finalArr, null, 2), (err) => {
     if(err) {
         console.log(err)
         return;
     }
-    console.log("VITFinalWithSynsets.json updated");
+    console.log("FinalWithSynsets.json updated");
 })
 
-fs.writeFile("VITFinalSynsets.txt", synsets, (err) => {
+fs.writeFile("FinalSynsets.txt", synsets, (err) => {
     if(err) {
         console.log(err)
         return;
     }
-    console.log("VITFinalSynsets.txt updated");
+    console.log("FinalSynsets.txt updated");
 })
 
 function getCompanyDetails (link) {
@@ -125,7 +126,7 @@ function getCompanyDetails (link) {
         industry: null,
         size: null
     };
-    vitCompanies.map(company => {
+    companies.map(company => {
         if(company.link === link) {
             obj = {
                 industry: company.industry,
@@ -138,23 +139,40 @@ function getCompanyDetails (link) {
 */
 
 /*
-// replcase synsets with profession using clustered result
-VITFinalWithSynsets.map(person => {
+// Set missing size
+let count = 0;
+finalWithSynsets.map(person => {
     person.jobs.map(job => {
-        Object.keys(VITClusters).map(profession => {
-            if(VITClusters[profession].indexOf(job.synset) !== -1) {
+        if(!job.industry || !job.size) {
+            if(!job.industry) {
+                industryCount++;
+            } else if (!job.size) {
+                job.size = "1,001-5,000 employees";
+            }
+            count++;
+        }
+    })
+})
+fs.writeFile("./FinalWithSynsets.json", JSON.stringify(finalWithSynsets, null, 2), (err) => err ? console.log("Error updating company sizes") : console.log("Company sizes updated successfully!"))
+*/
+
+
+// replcase synsets with profession using clustered result
+finalWithSynsets.map(person => {
+    person.jobs.map(job => {
+        Object.keys(clusters).map(profession => {
+            if(clusters[profession].indexOf(job.synset) !== -1) {
                 job.profession = profession;
                 delete job.synset;
             }
         })
     })
 })
-fs.writeFile("VITFinal.json", JSON.stringify(VITFinalWithSynsets, null, 2), (err) => {
+fs.writeFile("FINAL.json", JSON.stringify(finalWithSynsets, null, 2), (err) => {
     if(err) {
         console.log(err);
         return;
     }
 
-    console.log("VITFinal.json updated");
+    console.log("FINAL.json updated");
 })
-*/
