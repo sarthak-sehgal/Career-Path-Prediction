@@ -26,7 +26,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -64,7 +64,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Investment Management",
                 "size": "501-1,000 employees"
             }
@@ -92,7 +92,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Investment Management",
                 "size": "501-1,000 employees"
             },
@@ -102,7 +102,7 @@ module.exports=[{
                 "size": "1,001-5,000 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Education Management",
                 "size": "51-200 employees"
             }
@@ -141,12 +141,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees"
             },
@@ -354,7 +354,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
@@ -603,7 +603,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Market Research",
                 "size": "51-200 employees"
             },
@@ -641,7 +641,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -812,12 +812,12 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "201-500 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
@@ -1149,7 +1149,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Philanthropy",
                 "size": "201-500 employees"
             },
@@ -1223,7 +1223,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Nonprofit Organization Management",
                 "size": "10,001+ employees"
             },
@@ -1330,7 +1330,7 @@ module.exports=[{
                 "size": "0-1 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees"
             },
@@ -1412,7 +1412,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Nonprofit Organization Management",
                 "size": "5,001-10,000 employees"
             },
@@ -1449,7 +1449,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Nonprofit Organization Management",
                 "size": "5,001-10,000 employees"
             },
@@ -1564,7 +1564,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             }
@@ -1670,7 +1670,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "51-200 employees"
             },
@@ -1680,7 +1680,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "51-200 employees"
             },
@@ -1695,7 +1695,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -1705,7 +1705,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Retail",
                 "size": "10,001+ employees"
             }
@@ -1929,7 +1929,7 @@ module.exports=[{
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "E-Learning",
                 "size": "201-500 employees"
             },
@@ -1992,7 +1992,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Pharmaceuticals",
                 "size": "501-1,000 employees"
             }
@@ -2005,12 +2005,12 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Nonprofit Organization Management",
                 "size": "51-200 employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
@@ -2076,7 +2076,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Education Management",
                 "size": "501-1,000 employees"
             },
@@ -2142,7 +2142,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Renewables & Environment",
                 "size": "51-200 employees"
             },
@@ -2337,7 +2337,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "5,001-10,000 employees"
             },
@@ -2438,7 +2438,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -2496,17 +2496,17 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Advicer",
+                "profession": "Adviser",
                 "industry": "Management Consulting",
                 "size": "5,001-10,000 employees"
             },
@@ -2628,7 +2628,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-            "profession": "Advicer",
+            "profession": "Adviser",
             "industry": "Management Consulting",
             "size": "5,001-10,000 employees"
         }]
@@ -2830,7 +2830,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-            "profession": "Advicer",
+            "profession": "Adviser",
             "industry": "Automotive",
             "size": "10,001+ employees"
         }]
@@ -10591,25 +10591,25 @@ document.getElementById("go").addEventListener("click", function () {
                             this.path[get_elem].path = [...this.path[vert].path, get_elem];
                             this.path[get_elem].probability = probability;
                             
-                            if (!visited[get_elem])
-                                this.DFSUtil(get_elem, visited, probability);
-                            else if(get_elem === this.target)
+                            if(get_elem === this.target)
                                 this.paths.push({
                                     probability: probability,
-                                    path: this.path[get_elem]
+                                    path: this.path[get_elem].path
                                 })
+                            else
+                                this.DFSUtil(get_elem, visited, probability);
                         }
                     } else {
                         this.path[get_elem] = {};
                         this.path[get_elem].path = [...this.path[vert].path, get_elem];
                         this.path[get_elem].probability = probability;
-
+                        
                         if (!visited[get_elem])
                             this.DFSUtil(get_elem, visited, probability);
                         else if(get_elem === this.target)
                             this.paths.push({
                                 probability: probability,
-                                path: this.path[get_elem]
+                                path: this.path[get_elem].path
                             })
                     }
                 }
@@ -10651,7 +10651,7 @@ document.getElementById("go").addEventListener("click", function () {
                     for(let j=0; j<edges.length-1; j++) {
                         let finalWeight = edges[j].weight;
                         for(let k=j+1; k<edges.length; k++) {
-                            if(JSON.stringify(edges[j]) === JSON.stringify(edges[k])) {
+                            if(edges[j].vertex === edges[k].vertex && edges[j].weight === edges[k].weight) {
                                 finalWeight += edges[k].weight;
                                 edges.splice(k, 1);
                                 k--;

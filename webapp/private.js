@@ -202,25 +202,25 @@ document.getElementById("go").addEventListener("click", function () {
                             this.path[get_elem].path = [...this.path[vert].path, get_elem];
                             this.path[get_elem].probability = probability;
                             
-                            if (!visited[get_elem])
-                                this.DFSUtil(get_elem, visited, probability);
-                            else if(get_elem === this.target)
+                            if(get_elem === this.target)
                                 this.paths.push({
                                     probability: probability,
-                                    path: this.path[get_elem]
+                                    path: this.path[get_elem].path
                                 })
+                            else
+                                this.DFSUtil(get_elem, visited, probability);
                         }
                     } else {
                         this.path[get_elem] = {};
                         this.path[get_elem].path = [...this.path[vert].path, get_elem];
                         this.path[get_elem].probability = probability;
-
+                        
                         if (!visited[get_elem])
                             this.DFSUtil(get_elem, visited, probability);
                         else if(get_elem === this.target)
                             this.paths.push({
                                 probability: probability,
-                                path: this.path[get_elem]
+                                path: this.path[get_elem].path
                             })
                     }
                 }
@@ -262,7 +262,7 @@ document.getElementById("go").addEventListener("click", function () {
                     for(let j=0; j<edges.length-1; j++) {
                         let finalWeight = edges[j].weight;
                         for(let k=j+1; k<edges.length; k++) {
-                            if(JSON.stringify(edges[j]) === JSON.stringify(edges[k])) {
+                            if(edges[j].vertex === edges[k].vertex && edges[j].weight === edges[k].weight) {
                                 finalWeight += edges[k].weight;
                                 edges.splice(k, 1);
                                 k--;
