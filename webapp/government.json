@@ -308,7 +308,7 @@
         {
           "industry": "Semiconductors",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         },
         {
           "industry": "Semiconductors",
@@ -369,7 +369,7 @@
         {
           "industry": "Paper & Forest Products",
           "size": "51-200 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -383,7 +383,7 @@
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -496,7 +496,7 @@
         {
           "industry": "Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -793,7 +793,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -1198,7 +1198,7 @@
         {
           "industry": "Biotechnology",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -1208,17 +1208,17 @@
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1245,7 +1245,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1268,7 +1268,7 @@
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1321,12 +1321,12 @@
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -1336,17 +1336,17 @@
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1527,12 +1527,12 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Plastics",
@@ -1834,17 +1834,17 @@
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Market Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2001,7 +2001,7 @@
         {
           "industry": "Chemicals",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2097,7 +2097,7 @@
         {
           "industry": "Internet",
           "size": "5,001-10,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2341,17 +2341,17 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
@@ -2435,7 +2435,7 @@
         {
           "industry": "Broadcast Media",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2496,7 +2496,7 @@
         {
           "industry": "Law Enforcement",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2749,7 +2749,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2930,7 +2930,7 @@
         {
           "industry": "Computer Software",
           "size": "11-50 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -3150,12 +3150,12 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3234,7 +3234,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -3286,7 +3286,7 @@
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Education Management",
@@ -3584,7 +3584,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3612,7 +3612,7 @@
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3621,7 +3621,7 @@
         {
           "industry": "Education Management",
           "size": "201-500 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3644,7 +3644,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3748,7 +3748,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3864,12 +3864,12 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Oil & Energy",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -3931,7 +3931,7 @@
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -3941,12 +3941,12 @@
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "501-1,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -4306,7 +4306,7 @@
         {
           "industry": "Accounting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -4623,7 +4623,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -4954,7 +4954,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Program Development",
@@ -4978,7 +4978,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Utilities",
@@ -5209,7 +5209,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -5219,7 +5219,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "International Affairs",
@@ -5490,7 +5490,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -5544,7 +5544,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -5596,7 +5596,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -5824,7 +5824,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -5860,7 +5860,7 @@
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -5989,7 +5989,7 @@
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -6747,7 +6747,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Education Management",
@@ -7108,7 +7108,7 @@
         {
           "industry": "Market Research",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -7145,7 +7145,7 @@
         {
           "industry": "Research",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -8171,7 +8171,7 @@
         {
           "industry": "Computer & Network Security",
           "size": "201-500 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "E-Learning",
@@ -8327,7 +8327,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -8449,7 +8449,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -8974,12 +8974,12 @@
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -9061,7 +9061,7 @@
         {
           "industry": "Internet",
           "size": "2-10 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -9420,7 +9420,7 @@
         {
           "industry": "Higher Education",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -9440,7 +9440,7 @@
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Consumer Services",
@@ -9806,7 +9806,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -9816,7 +9816,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -9970,7 +9970,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -10043,7 +10043,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Human Resources",
@@ -10380,7 +10380,7 @@
         {
           "industry": "Research",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -11584,7 +11584,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -11811,7 +11811,7 @@
         {
           "industry": "Logistics and Supply Chain",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -12424,7 +12424,7 @@
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -12881,7 +12881,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -12891,7 +12891,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Banking",
@@ -12901,7 +12901,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -13925,7 +13925,7 @@
         {
           "industry": "Oil & Energy",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Electrical/Electronic Manufacturing",
@@ -14167,7 +14167,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Financial Services",
@@ -14210,7 +14210,7 @@
         {
           "industry": "Research",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -14643,7 +14643,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -15021,7 +15021,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -15086,7 +15086,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Professional Training & Coaching",
@@ -15115,7 +15115,7 @@
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -15794,7 +15794,7 @@
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -16016,7 +16016,7 @@
         {
           "industry": "Defense & Space",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -16140,7 +16140,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -16631,7 +16631,7 @@
         {
           "industry": "Defense & Space",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -16994,7 +16994,7 @@
         {
           "industry": "Information Technology and Services",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -17754,7 +17754,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -18089,7 +18089,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -18213,12 +18213,12 @@
         {
           "industry": "Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -18856,12 +18856,12 @@
         {
           "industry": "Management Consulting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Management Consulting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Automotive",
@@ -18910,7 +18910,7 @@
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Defense & Space",
@@ -19298,7 +19298,7 @@
         {
           "industry": "Investment Management",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Financial Services",
@@ -19342,7 +19342,7 @@
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "E-Learning",
@@ -19361,17 +19361,17 @@
         {
           "industry": "Computer Software",
           "size": "0-1 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
