@@ -309,7 +309,7 @@ module.exports=[
         {
           "industry": "Semiconductors",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         },
         {
           "industry": "Semiconductors",
@@ -370,7 +370,7 @@ module.exports=[
         {
           "industry": "Paper & Forest Products",
           "size": "51-200 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -384,7 +384,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -497,7 +497,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -794,7 +794,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -1199,7 +1199,7 @@ module.exports=[
         {
           "industry": "Biotechnology",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -1209,17 +1209,17 @@ module.exports=[
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1246,7 +1246,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1269,7 +1269,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1322,12 +1322,12 @@ module.exports=[
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -1337,17 +1337,17 @@ module.exports=[
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -1528,12 +1528,12 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Plastics",
@@ -1835,17 +1835,17 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Market Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2002,7 +2002,7 @@ module.exports=[
         {
           "industry": "Chemicals",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2098,7 +2098,7 @@ module.exports=[
         {
           "industry": "Internet",
           "size": "5,001-10,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2342,17 +2342,17 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
@@ -2436,7 +2436,7 @@ module.exports=[
         {
           "industry": "Broadcast Media",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2497,7 +2497,7 @@ module.exports=[
         {
           "industry": "Law Enforcement",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -2750,7 +2750,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -2931,7 +2931,7 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "11-50 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -3151,12 +3151,12 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3235,7 +3235,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -3287,7 +3287,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Education Management",
@@ -3585,7 +3585,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3613,7 +3613,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3622,7 +3622,7 @@ module.exports=[
         {
           "industry": "Education Management",
           "size": "201-500 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3645,7 +3645,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3749,7 +3749,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -3865,12 +3865,12 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Oil & Energy",
           "size": "10,001+ employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -3932,7 +3932,7 @@ module.exports=[
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
@@ -3942,12 +3942,12 @@ module.exports=[
         {
           "industry": "Pharmaceuticals",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Pharmaceuticals",
           "size": "501-1,000 employees",
-          "profession": "Trainee"
+          "profession": "Intern"
         }
       ]
     },
@@ -4307,7 +4307,7 @@ module.exports=[
         {
           "industry": "Accounting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -4624,7 +4624,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -4955,7 +4955,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Program Development",
@@ -4979,7 +4979,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Utilities",
@@ -5210,7 +5210,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -5220,7 +5220,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "International Affairs",
@@ -5491,7 +5491,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -5545,7 +5545,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -5597,7 +5597,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -5825,7 +5825,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -5861,7 +5861,7 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -5990,7 +5990,7 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -6748,7 +6748,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Education Management",
@@ -7109,7 +7109,7 @@ module.exports=[
         {
           "industry": "Market Research",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -7146,7 +7146,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -8172,7 +8172,7 @@ module.exports=[
         {
           "industry": "Computer & Network Security",
           "size": "201-500 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "E-Learning",
@@ -8328,7 +8328,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -8450,7 +8450,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -8975,12 +8975,12 @@ module.exports=[
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -9062,7 +9062,7 @@ module.exports=[
         {
           "industry": "Internet",
           "size": "2-10 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -9421,7 +9421,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -9441,7 +9441,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Consumer Services",
@@ -9807,7 +9807,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Information Technology and Services",
@@ -9817,7 +9817,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -9971,7 +9971,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -10044,7 +10044,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Human Resources",
@@ -10381,7 +10381,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -11585,7 +11585,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -11812,7 +11812,7 @@ module.exports=[
         {
           "industry": "Logistics and Supply Chain",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -12425,7 +12425,7 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -12882,7 +12882,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -12892,7 +12892,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Banking",
@@ -12902,7 +12902,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -13926,7 +13926,7 @@ module.exports=[
         {
           "industry": "Oil & Energy",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Electrical/Electronic Manufacturing",
@@ -14168,7 +14168,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Financial Services",
@@ -14211,7 +14211,7 @@ module.exports=[
         {
           "industry": "Research",
           "size": "11-50 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -14644,7 +14644,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -15022,7 +15022,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
@@ -15087,7 +15087,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Professional Training & Coaching",
@@ -15116,7 +15116,7 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "10,001+ employees",
-          "profession": "Scientist"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -15795,7 +15795,7 @@ module.exports=[
         {
           "industry": "Telecommunications",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -16017,7 +16017,7 @@ module.exports=[
         {
           "industry": "Defense & Space",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Nonprofit Organization Management",
@@ -16141,7 +16141,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -16632,7 +16632,7 @@ module.exports=[
         {
           "industry": "Defense & Space",
           "size": "501-1,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -16995,7 +16995,7 @@ module.exports=[
         {
           "industry": "Information Technology and Services",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -17755,7 +17755,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Computer Software",
@@ -18090,7 +18090,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Internet",
@@ -18214,12 +18214,12 @@ module.exports=[
         {
           "industry": "Research",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         }
       ]
     },
@@ -18857,12 +18857,12 @@ module.exports=[
         {
           "industry": "Management Consulting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Management Consulting",
           "size": "10,001+ employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Automotive",
@@ -18911,7 +18911,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Defense & Space",
@@ -19299,7 +19299,7 @@ module.exports=[
         {
           "industry": "Investment Management",
           "size": "5,001-10,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Financial Services",
@@ -19343,7 +19343,7 @@ module.exports=[
         {
           "industry": "Higher Education",
           "size": "51-200 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "E-Learning",
@@ -19362,17 +19362,17 @@ module.exports=[
         {
           "industry": "Computer Software",
           "size": "0-1 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Research",
           "size": "1,001-5,000 employees",
-          "profession": "Researcher"
+          "profession": "Researcher or Scientist"
         },
         {
           "industry": "Higher Education",
