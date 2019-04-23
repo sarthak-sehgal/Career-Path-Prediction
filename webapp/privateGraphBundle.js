@@ -8,7 +8,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Pharmaceuticals",
                 "size": "10,001+ employees"
             },
@@ -21,7 +21,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -110,7 +110,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -120,7 +120,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Oil & Energy",
                 "size": "10,001+ employees"
             }
@@ -164,7 +164,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Professor",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "501-1,000 employees"
             },
@@ -179,7 +179,7 @@ module.exports=[{
                 "size": "501-1,000 employees"
             },
             {
-                "profession": "Professor",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "501-1,000 employees"
             },
@@ -192,12 +192,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Automotive",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Renewables & Environment",
                 "size": "501-1,000 employees"
             },
@@ -207,7 +207,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Utilities",
                 "size": "10,001+ employees"
             },
@@ -234,7 +234,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Banking",
                 "size": "10,001+ employees"
             },
@@ -249,7 +249,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Mining & Metals",
                 "size": "10,001+ employees"
             },
@@ -294,7 +294,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Fund-Raising",
                 "size": "51-200 employees"
             },
@@ -336,7 +336,7 @@ module.exports=[{
                 "size": "501-1,000 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Consumer Goods",
                 "size": "10,001+ employees"
             },
@@ -479,7 +479,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Hospitality",
                 "size": "1,001-5,000 employees"
             },
@@ -507,12 +507,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Pharmaceuticals",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Industrial Automation",
                 "size": "10,001+ employees"
             },
@@ -578,7 +578,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-            "profession": "Director",
+            "profession": "Manager",
             "industry": "Political Organization",
             "size": "51-200 employees"
         }]
@@ -646,17 +646,17 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Consumer Goods",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Consumer Goods",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Consumer Goods",
                 "size": "10,001+ employees"
             },
@@ -822,7 +822,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             }
@@ -862,17 +862,17 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Management Consulting",
                 "size": "1,001-5,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Management Consulting",
                 "size": "1,001-5,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
@@ -885,7 +885,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Developer",
+                "profession": "Programmer",
                 "size": "11-50 employees"
             },
             {
@@ -927,7 +927,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Nonprofit Organization Management",
                 "size": "5,001-10,000 employees"
             },
@@ -1004,12 +1004,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Textiles",
                 "size": "51-200 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Computer Software",
                 "size": "2-10 employees"
             }
@@ -1031,7 +1031,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Fund-Raising",
                 "size": "51-200 employees"
             },
@@ -1058,12 +1058,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Education Management",
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Marketing and Advertising",
                 "size": "501-1,000 employees"
             },
@@ -1093,7 +1093,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Mechanical or Industrial Engineering",
                 "size": "11-50 employees"
             },
@@ -1159,7 +1159,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Automotive",
                 "size": "10,001+ employees"
             }
@@ -1195,12 +1195,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Computer Software",
                 "size": "51-200 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Internet",
                 "size": "51-200 employees"
             },
@@ -1233,7 +1233,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Internet",
                 "size": "201-500 employees"
             },
@@ -1243,7 +1243,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Teacher",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "501-1,000 employees"
             }
@@ -1325,7 +1325,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Venture Capital & Private Equity",
                 "size": "0-1 employees"
             },
@@ -1340,7 +1340,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Computer Software",
                 "size": "2-10 employees"
             }
@@ -1348,7 +1348,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "International Affairs",
                 "size": "51-200 employees"
             },
@@ -1366,7 +1366,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Computer Software",
                 "size": "201-500 employees"
             },
@@ -1376,7 +1376,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Primary/Secondary Education",
                 "size": "11-50 employees"
             },
@@ -1421,7 +1421,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Nonprofit Organization Management",
                 "size": "5,001-10,000 employees"
             }
@@ -1454,7 +1454,7 @@ module.exports=[{
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Fund-Raising",
                 "size": "51-200 employees"
             },
@@ -1472,7 +1472,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Events Services",
                 "size": "11-50 employees"
             }
@@ -1485,7 +1485,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Internet",
                 "size": "51-200 employees"
             },
@@ -1531,7 +1531,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Investment Management",
                 "size": "11-50 employees"
             },
@@ -1544,7 +1544,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Accounting",
                 "size": "10,001+ employees"
             },
@@ -1572,12 +1572,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Education Management",
                 "size": "11-50 employees"
             },
             {
-                "profession": "Professor",
+                "profession": "Faculty",
                 "industry": "Education Management",
                 "size": "51-200 employees"
             },
@@ -1605,22 +1605,22 @@ module.exports=[{
                 "size": "2-10 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Internet",
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Information Technology and Services",
                 "size": "501-1,000 employees"
             }
@@ -1651,7 +1651,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-            "profession": "Trainee",
+            "profession": "Intern",
             "industry": "Management Consulting",
             "size": "5,001-10,000 employees"
         }]
@@ -1675,7 +1675,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Hospital & Health Care",
                 "size": "10,001+ employees"
             },
@@ -1718,7 +1718,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Telecommunications",
                 "size": "10,001+ employees"
             },
@@ -1733,7 +1733,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Consumer Services",
                 "size": "11-50 employees"
             }
@@ -1761,12 +1761,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Professor",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "201-500 employees"
             },
             {
-                "profession": "Professor",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "10,001+ employees"
             }
@@ -1786,7 +1786,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Capital Markets",
                 "size": "51-200 employees"
             },
@@ -1868,7 +1868,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Teacher",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "501-1,000 employees"
             },
@@ -1904,7 +1904,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-            "profession": "Director",
+            "profession": "Manager",
             "industry": "Publishing",
             "size": "51-200 employees"
         }]
@@ -1934,7 +1934,7 @@ module.exports=[{
                 "size": "201-500 employees"
             },
             {
-                "profession": "Teacher",
+                "profession": "Faculty",
                 "industry": "Higher Education",
                 "size": "501-1,000 employees"
             },
@@ -1977,7 +1977,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Health, Wellness and Fitness",
                 "size": "2-10 employees"
             },
@@ -2043,7 +2043,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Online Media",
                 "size": "51-200 employees"
             },
@@ -2063,7 +2063,7 @@ module.exports=[{
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Nonprofit Organization Management",
                 "size": "11-50 employees"
             },
@@ -2081,7 +2081,7 @@ module.exports=[{
                 "size": "501-1,000 employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Oil & Energy",
                 "size": "10,001+ employees"
             }
@@ -2157,7 +2157,7 @@ module.exports=[{
                 "size": "51-200 employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Health, Wellness and Fitness",
                 "size": "2-10 employees"
             },
@@ -2291,7 +2291,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Telecommunications",
                 "size": "1,001-5,000 employees"
             },
@@ -2301,7 +2301,7 @@ module.exports=[{
                 "size": "1,001-5,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Telecommunications",
                 "size": "10,001+ employees"
             }
@@ -2309,12 +2309,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Banking",
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Financial Services",
                 "size": "10,001+ employees"
             },
@@ -2405,7 +2405,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Newspapers",
                 "size": "5,001-10,000 employees"
             },
@@ -2491,7 +2491,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Management Consulting",
                 "size": "10,001+ employees"
             },
@@ -2529,7 +2529,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Developer",
+                "profession": "Programmer",
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees"
             },
@@ -2542,7 +2542,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Teacher",
+                "profession": "Faculty",
                 "industry": "Consumer Services",
                 "size": "51-200 employees"
             },
@@ -2570,7 +2570,7 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Information Technology and Services",
                 "size": "2-10 employees"
             },
@@ -2658,7 +2658,7 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Civil Engineering",
                 "size": "1,001-5,000 employees"
             },
@@ -2688,7 +2688,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Construction",
                 "size": "10,001+ employees"
             },
@@ -2703,22 +2703,22 @@ module.exports=[{
                 "size": "11-50 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Electrical/Electronic Manufacturing",
                 "size": "5,001-10,000 employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Consumer Electronics",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Oil & Energy",
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Oil & Energy",
                 "size": "10,001+ employees"
             },
@@ -2794,12 +2794,12 @@ module.exports=[{
     },
     {
         "jobs": [{
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Entertainment",
                 "size": "1,001-5,000 employees"
             },
             {
-                "profession": "Trainee",
+                "profession": "Intern",
                 "industry": "Entertainment",
                 "size": "1,001-5,000 employees"
             }
@@ -2822,7 +2822,7 @@ module.exports=[{
                 "size": "10,001+ employees"
             },
             {
-                "profession": "Director",
+                "profession": "Manager",
                 "industry": "Consumer Goods",
                 "size": "10,001+ employees"
             }
@@ -2853,7 +2853,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -2895,17 +2895,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Higher Education",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "201-500 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "51-200 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -2961,7 +2961,7 @@ module.exports=[{
             {
                 "industry": "Management Consulting",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Computer Software",
@@ -3001,14 +3001,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "501-1,000 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -3022,14 +3022,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -3046,7 +3046,7 @@ module.exports=[{
             {
                 "industry": "Banking",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Education Management",
@@ -3122,17 +3122,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -3140,7 +3140,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Telecommunications",
             "size": "10,001+ employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -3170,7 +3170,7 @@ module.exports=[{
             {
                 "industry": "Nonprofit Organization Management",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Automotive",
@@ -3246,17 +3246,17 @@ module.exports=[{
             {
                 "industry": "Industrial Automation",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Computer Software",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Internet",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -3284,19 +3284,19 @@ module.exports=[{
         "jobs": [{
             "industry": "Telecommunications",
             "size": "51-200 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
         "jobs": [{
                 "industry": "Higher Education",
                 "size": "501-1,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -3485,7 +3485,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -3526,7 +3526,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Mechanical or Industrial Engineering",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Nonprofit Organization Management",
@@ -3536,7 +3536,7 @@ module.exports=[{
             {
                 "industry": "Civic & Social Organization",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -3571,7 +3571,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Computer Software",
@@ -3669,7 +3669,7 @@ module.exports=[{
             {
                 "industry": "Nonprofit Organization Management",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -3677,7 +3677,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -3769,7 +3769,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Nonprofit Organization Management",
             "size": "51-200 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -3796,7 +3796,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Education Management",
@@ -3809,12 +3809,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Computer Networking",
                 "size": "51-200 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Computer Software",
                 "size": "11-50 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Nonprofit Organization Management",
@@ -3850,7 +3850,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Mechanical or Industrial Engineering",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Pharmaceuticals",
@@ -3901,12 +3901,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Mechanical or Industrial Engineering",
                 "size": "2-10 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Mechanical or Industrial Engineering",
                 "size": "2-10 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -3961,19 +3961,19 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Higher Education",
                 "size": "501-1,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -4047,22 +4047,22 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -4113,12 +4113,12 @@ module.exports=[{
             {
                 "industry": "Accounting",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Electrical/Electronic Manufacturing",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Nonprofit Organization Management",
@@ -4146,7 +4146,7 @@ module.exports=[{
             {
                 "industry": "Entertainment",
                 "size": "201-500 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Automotive",
@@ -4164,7 +4164,7 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -4236,7 +4236,7 @@ module.exports=[{
             {
                 "industry": "Financial Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Marketing and Advertising",
@@ -4264,7 +4264,7 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
@@ -4334,7 +4334,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "501-1,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -4342,19 +4342,19 @@ module.exports=[{
         "jobs": [{
             "industry": "Computer Software",
             "size": "11-50 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -4425,7 +4425,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -4499,7 +4499,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "5,001-10,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -4507,7 +4507,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Automotive",
             "size": "10,001+ employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -4581,11 +4581,11 @@ module.exports=[{
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Research",
-                "profession": "Professor",
+                "profession": "Faculty",
                 "size": "1,001-5,000 employees"
             }
         ]
@@ -4606,7 +4606,7 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Consumer Goods",
@@ -4624,7 +4624,7 @@ module.exports=[{
             {
                 "industry": "Financial Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -4636,7 +4636,7 @@ module.exports=[{
     {
         "jobs": [{
                 "industry": "Construction",
-                "profession": "Trainee",
+                "profession": "Intern",
                 "size": "1,001-5,000 employees"
             },
             {
@@ -4675,7 +4675,7 @@ module.exports=[{
             {
                 "industry": "Arts and Crafts",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -4716,7 +4716,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "201-500 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -4731,7 +4731,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Automotive",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Automotive",
@@ -4757,7 +4757,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Automotive",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Nonprofit Organization Management",
@@ -4767,7 +4767,7 @@ module.exports=[{
             {
                 "industry": "Food & Beverages",
                 "size": "51-200 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -4775,7 +4775,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Construction",
             "size": "201-500 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -4837,7 +4837,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Think Tanks",
             "size": "11-50 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -4877,7 +4877,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -4977,7 +4977,7 @@ module.exports=[{
             {
                 "industry": "Civil Engineering",
                 "size": "201-500 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Oil & Energy",
@@ -5025,12 +5025,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Marketing and Advertising",
                 "size": "2-10 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Marketing and Advertising",
                 "size": "2-10 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "E-Learning",
@@ -5081,7 +5081,7 @@ module.exports=[{
             {
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -5228,7 +5228,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Computer Software",
                 "size": "11-50 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Marketing and Advertising",
@@ -5260,7 +5260,7 @@ module.exports=[{
             {
                 "industry": "Financial Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Financial Services",
@@ -5293,7 +5293,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Management Consulting",
             "size": "11-50 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -5385,7 +5385,7 @@ module.exports=[{
             {
                 "industry": "Telecommunications",
                 "size": "501-1,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -5418,7 +5418,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Insurance",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Insurance",
@@ -5431,7 +5431,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -5461,7 +5461,7 @@ module.exports=[{
             {
                 "industry": "Construction",
                 "size": "501-1,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Construction",
@@ -5474,7 +5474,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Education Management",
@@ -5502,12 +5502,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Executive Office",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Executive Office",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "E-Learning",
@@ -5588,7 +5588,7 @@ module.exports=[{
             {
                 "industry": "Facilities Services",
                 "size": "2-10 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Facilities Services",
@@ -5621,17 +5621,17 @@ module.exports=[{
             {
                 "industry": "Financial Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Banking",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Banking",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -5733,7 +5733,7 @@ module.exports=[{
             {
                 "industry": "Computer Software",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -5840,7 +5840,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Telecommunications",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -5922,7 +5922,7 @@ module.exports=[{
             {
                 "industry": "Health, Wellness and Fitness",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -5968,12 +5968,12 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -5981,7 +5981,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Management Consulting",
@@ -6004,12 +6004,12 @@ module.exports=[{
             {
                 "industry": "Philanthropy",
                 "size": "201-500 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -6102,7 +6102,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Civic & Social Organization",
@@ -6115,7 +6115,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "201-500 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -6167,17 +6167,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Education Management",
                 "size": "51-200 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Higher Education",
-                "profession": "Professor",
+                "profession": "Faculty",
                 "size": "1,001-5,000 employees"
             },
             {
                 "industry": "Research",
                 "size": "0-1 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -6211,7 +6211,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Management Consulting",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -6226,7 +6226,7 @@ module.exports=[{
             {
                 "industry": "Oil & Energy",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Oil & Energy",
@@ -6239,7 +6239,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Automotive",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Automotive",
@@ -6249,7 +6249,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Automotive",
@@ -6297,7 +6297,7 @@ module.exports=[{
             {
                 "industry": "Pharmaceuticals",
                 "size": "201-500 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Research",
@@ -6310,12 +6310,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Think Tanks",
@@ -6330,7 +6330,7 @@ module.exports=[{
             {
                 "industry": "Computer Software",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Consumer Electronics",
@@ -6450,7 +6450,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Semiconductors",
@@ -6460,12 +6460,12 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -6473,7 +6473,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Internet",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Internet",
@@ -6483,7 +6483,7 @@ module.exports=[{
             {
                 "industry": "Internet",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Internet",
@@ -6496,7 +6496,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Renewables & Environment",
             "size": "51-200 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -6589,12 +6589,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Medical Devices",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Health, Wellness and Fitness",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -6621,13 +6621,13 @@ module.exports=[{
     {
         "jobs": [{
                 "industry": "Education Management",
-                "profession": "Professor",
+                "profession": "Faculty",
                 "size": "1,001-5,000 employees"
             },
             {
                 "industry": "Higher Education",
                 "size": "11-50 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -6681,7 +6681,7 @@ module.exports=[{
     {
         "jobs": [{
             "industry": "Higher Education",
-            "profession": "Director",
+            "profession": "Manager",
             "size": "1,001-5,000 employees"
         }]
     },
@@ -6717,7 +6717,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Food & Beverages",
             "size": "2-10 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -6729,12 +6729,12 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -6833,7 +6833,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Higher Education",
@@ -6883,7 +6883,7 @@ module.exports=[{
     {
         "jobs": [{
             "industry": "Higher Education",
-            "profession": "Professor",
+            "profession": "Faculty",
             "size": "1,001-5,000 employees"
         }]
     },
@@ -6918,7 +6918,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "5,001-10,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -6949,14 +6949,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
@@ -6966,7 +6966,7 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "201-500 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -7006,12 +7006,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Higher Education",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -7031,7 +7031,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "51-200 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -7059,7 +7059,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "501-1,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Publishing",
@@ -7139,12 +7139,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Telecommunications",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Telecommunications",
@@ -7182,7 +7182,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Pharmaceuticals",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "E-Learning",
@@ -7215,7 +7215,7 @@ module.exports=[{
             {
                 "industry": "Retail",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -7223,7 +7223,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Higher Education",
                 "size": "1,001-5,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Biotechnology",
@@ -7291,7 +7291,7 @@ module.exports=[{
             },
             {
                 "industry": "Higher Education",
-                "profession": "Professor",
+                "profession": "Faculty",
                 "size": "1,001-5,000 employees"
             },
             {
@@ -7337,7 +7337,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Architecture & Planning",
@@ -7383,7 +7383,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -7466,7 +7466,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
@@ -7568,7 +7568,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Architecture & Planning",
             "size": "501-1,000 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -7602,17 +7602,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -7671,7 +7671,7 @@ module.exports=[{
             {
                 "industry": "Telecommunications",
                 "size": "201-500 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -7679,7 +7679,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Newspapers",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -7712,7 +7712,7 @@ module.exports=[{
             {
                 "industry": "Pharmaceuticals",
                 "size": "501-1,000 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Internet",
@@ -7794,7 +7794,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Banking",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Oil & Energy",
@@ -7878,7 +7878,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -7904,12 +7904,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Pharmaceuticals",
                 "size": "201-500 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Electrical/Electronic Manufacturing",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -7934,12 +7934,12 @@ module.exports=[{
             {
                 "industry": "Real Estate",
                 "size": "201-500 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Real Estate",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Facilities Services",
@@ -7985,7 +7985,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Computer Software",
             "size": "11-50 employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -8166,7 +8166,7 @@ module.exports=[{
             {
                 "industry": "Retail",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -8199,22 +8199,22 @@ module.exports=[{
         "jobs": [{
                 "industry": "Food Production",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Food Production",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Food & Beverages",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Food & Beverages",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             },
             {
                 "industry": "Food & Beverages",
@@ -8454,14 +8454,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Electrical/Electronic Manufacturing",
             "size": "51-200 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -8494,7 +8494,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Nonprofit Organization Management",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Nonprofit Organization Management",
@@ -8575,7 +8575,7 @@ module.exports=[{
             {
                 "industry": "Internet",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -8593,12 +8593,12 @@ module.exports=[{
             {
                 "industry": "Biotechnology",
                 "size": "0-1 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Utilities",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -8661,7 +8661,7 @@ module.exports=[{
             {
                 "industry": "Professional Training & Coaching",
                 "size": "11-50 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Public Policy",
@@ -8671,7 +8671,7 @@ module.exports=[{
             {
                 "industry": "Internet",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Computer Software",
@@ -8714,7 +8714,7 @@ module.exports=[{
             {
                 "industry": "Utilities",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Hospital & Health Care",
@@ -8747,12 +8747,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -8762,7 +8762,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -8793,7 +8793,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -8824,17 +8824,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -8908,7 +8908,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "5,001-10,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Financial Services",
@@ -8928,7 +8928,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Education Management",
             "size": "1,001-5,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -8959,7 +8959,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
@@ -8986,14 +8986,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Computer Software",
             "size": "5,001-10,000 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
         "jobs": [{
             "industry": "Hospital & Health Care",
             "size": "11-50 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -9013,7 +9013,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -9031,7 +9031,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "51-200 employees",
-            "profession": "Developer"
+            "profession": "Programmer"
         }]
     },
     {
@@ -9043,7 +9043,7 @@ module.exports=[{
             {
                 "industry": "Education Management",
                 "size": "201-500 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             }
         ]
     },
@@ -9051,7 +9051,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Higher Education",
             "size": "501-1,000 employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -9072,7 +9072,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -9161,7 +9161,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Education Management",
                 "size": "1,001-5,000 employees",
-                "profession": "Professor"
+                "profession": "Faculty"
             },
             {
                 "industry": "Education Management",
@@ -9188,7 +9188,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Computer Software",
@@ -9223,7 +9223,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "1,001-5,000 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Automotive",
@@ -9285,7 +9285,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -9353,7 +9353,7 @@ module.exports=[{
             {
                 "industry": "Higher Education",
                 "size": "5,001-10,000 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             }
         ]
     },
@@ -9361,17 +9361,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Retail",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Retail",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             }
         ]
     },
@@ -9386,12 +9386,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             }
         ]
     },
@@ -9467,12 +9467,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -9480,7 +9480,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
@@ -9540,7 +9540,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -9588,17 +9588,17 @@ module.exports=[{
         "jobs": [{
                 "industry": "Financial Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Financial Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Financial Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -9653,7 +9653,7 @@ module.exports=[{
             {
                 "industry": "Pharmaceuticals",
                 "size": "201-500 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Pharmaceuticals",
@@ -9688,7 +9688,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Developer"
+            "profession": "Programmer"
         }]
     },
     {
@@ -9900,7 +9900,7 @@ module.exports=[{
             {
                 "industry": "Automotive",
                 "size": "5,001-10,000 employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -9957,7 +9957,7 @@ module.exports=[{
             {
                 "industry": "Machinery",
                 "size": "1,001-5,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -9985,22 +9985,22 @@ module.exports=[{
         "jobs": [{
                 "industry": "Information Technology and Services",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Internet",
                 "size": "11-50 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
                 "size": "501-1,000 employees",
-                "profession": "Director"
+                "profession": "Manager"
             }
         ]
     },
@@ -10021,7 +10021,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Developer"
+            "profession": "Programmer"
         }]
     },
     {
@@ -10046,14 +10046,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Trainee"
+            "profession": "Intern"
         }]
     },
     {
@@ -10067,7 +10067,7 @@ module.exports=[{
         "jobs": [{
             "industry": "Information Technology and Services",
             "size": "10,001+ employees",
-            "profession": "Professor"
+            "profession": "Faculty"
         }]
     },
     {
@@ -10158,7 +10158,7 @@ module.exports=[{
         "jobs": [{
                 "industry": "Banking",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Information Technology and Services",
@@ -10173,7 +10173,7 @@ module.exports=[{
             {
                 "industry": "Electrical/Electronic Manufacturing",
                 "size": "10,001+ employees",
-                "profession": "Trainee"
+                "profession": "Intern"
             }
         ]
     },
@@ -10181,14 +10181,14 @@ module.exports=[{
         "jobs": [{
             "industry": "Outsourcing/Offshoring",
             "size": "201-500 employees",
-            "profession": "Director"
+            "profession": "Manager"
         }]
     },
     {
         "jobs": [{
                 "industry": "Environmental Services",
                 "size": "51-200 employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Environmental Services",
@@ -10220,7 +10220,7 @@ module.exports=[{
             {
                 "industry": "Electrical/Electronic Manufacturing",
                 "size": "51-200 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             }
         ]
     },
@@ -10321,12 +10321,12 @@ module.exports=[{
         "jobs": [{
                 "industry": "Internet",
                 "size": "10,001+ employees",
-                "profession": "Director"
+                "profession": "Manager"
             },
             {
                 "industry": "Computer Software",
                 "size": "1,001-5,000 employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
@@ -10349,7 +10349,7 @@ module.exports=[{
             {
                 "industry": "Information Technology and Services",
                 "size": "10,001+ employees",
-                "profession": "Developer"
+                "profession": "Programmer"
             },
             {
                 "industry": "Information Technology and Services",
