@@ -1,5 +1,5 @@
-[# Tech in Social Research Paper](https://github.com/sarthak-sehgal/TSR-Project-Data/blob/master/TSR%20Final.pdf)
-## Career Path Prediction using Machine Learning: An application in Indian setting
+# [Techniques in Social Research Coursework (BITS Pilani)](https://github.com/sarthak-sehgal/TSR-Project-Data/blob/master/TSR%20Final.pdf)
+## Research report on Career Path Prediction using Machine Learning: An application in Indian setting
 ### Acknowledgements
 Motivation and encouragement remain pillars of successful completion of any venture. We would like to express our gratitude towards Dr. Tanu Shukla for trust and constant guidance in preparing this research report. We would like to acknowledge research scholars Ms. Mounika and Ms. Divya for constantly reviewing, encouraging and helping us in finalizing and editing this report.
 
