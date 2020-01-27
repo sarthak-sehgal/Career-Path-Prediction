@@ -1,0 +1,143 @@
+----
+Total count: 437
+----
+
+Range: 2017 – 2021 | Size: 51
+
+Range: 2016 – 2020 | Size: 31
+
+Range: 2018 – 2022 | Size: 30
+
+Range: 2017 - 2021 | Size: 20
+
+Range: 2019 – 2023 | Size: 19
+
+Range: 2016 – 2021 | Size: 19
+
+Range: 2018 – 2023 | Size: 16
+
+Range: 2016 - 2020 | Size: 16
+
+Range: 2015 – 2019 | Size: 16
+
+Range: 2017 – 2022 | Size: 15
+
+Range: 2018 - 2022 | Size: 14
+
+Range: 2015 - 2019 | Size: 12
+
+Range: 2016 - 2021 | Size: 11
+
+Range: 2012 – 2016 | Size: 10
+
+Range: 2015 – 2020 | Size: 9
+
+Range: 2019 - 2023 | Size: 8
+
+Range: 2017 - 2022 | Size: 8
+
+Range: 2014 – 2018 | Size: 7
+
+Range: 2013 – 2017 | Size: 7
+
+Range: 2013 - 2017 | Size: 7
+
+Range: 2019 – 2024 | Size: 6
+
+Range: 2018 - 2023 | Size: 6
+
+Range: 2014 – 2019 | Size: 6
+
+Range: 2019 - 2024 | Size: 5
+
+Range: 2014 - 2018 | Size: 5
+
+Range: 2012 - 2016 | Size: 5
+
+Range: 2011 – 2015 | Size: 5
+
+Range: 2015 - 2020 | Size: 4
+
+Range: 2011 – 2016 | Size: 4
+
+Range: 2011 - 2015 | Size: 4
+
+Range: undefined | Size: 3
+
+Range: 2019 – 2021 | Size: 3
+
+Range: 2017 – 2019 | Size: 3
+
+Range: 2014 - 2019 | Size: 3
+
+Range: 2013 – 2018 | Size: 3
+
+Range: 2012 – 2017 | Size: 3
+
+Range: 2006 – 2010 | Size: 3
+
+Range: 2018 - 2020 | Size: 2
+
+Range: 2016 – 2018 | Size: 2
+
+Range: 2013 - 2018 | Size: 2
+
+Range: 2012 - 2017 | Size: 2
+
+Range: 2008 – 2012 | Size: 2
+
+Range: 2006 – 2011 | Size: 2
+
+Range: 2005 – 2009 | Size: 2
+
+Range: 2019 | Size: 1
+
+Range: 2018 – 2020 | Size: 1
+
+Range: 2017 – 2020 | Size: 1
+
+Range: 2017 – 2017 | Size: 1
+
+Range: 2016 - 2022 | Size: 1
+
+Range: 2016 - 2018 | Size: 1
+
+Range: 2016 | Size: 1
+
+Range: 2015 | Size: 1
+
+Range: 2014 - 2020 | Size: 1
+
+Range: 2013 – 2015 | Size: 1
+
+Range: 2012 – 2015 | Size: 1
+
+Range: 2010 – 2015 | Size: 1
+
+Range: 2010 - 2015 | Size: 1
+
+Range: 2009 – 2014 | Size: 1
+
+Range: 2009 – 2013 | Size: 1
+
+Range: 2009 - 2013 | Size: 1
+
+Range: 2008 – 2013 | Size: 1
+
+Range: 2008 - 2013 | Size: 1
+
+Range: 2005 - 2010 | Size: 1
+
+Range: 2005 - 2009 | Size: 1
+
+Range: 2003 – 2005 | Size: 1
+
+Range: 2002 – 2006 | Size: 1
+
+Range: 1998 – 2002 | Size: 1
+
+Range: 1997 – 2000 | Size: 1
+
+Range: 1997 – 1999 | Size: 1
+
+Range: 1979 – 1996 | Size: 1
