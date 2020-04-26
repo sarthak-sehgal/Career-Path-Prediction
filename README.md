@@ -1,8 +1,8 @@
 # Techniques in Social Research Coursework (BITS Pilani)
 ## Important Resources
-- [Report](https://github.com/sarthak-sehgal/TSR-Project-Data/blob/master/TSR%20Final.pdf)
-- [Web App (private colleges)](https://sarthak-sehgal.github.io/TSR-Project/webapp/private.html)
-- [Web App (government colleges)](https://sarthak-sehgal.github.io/TSR-Project/webapp/government.html)
+- [Report](https://github.com/sarthak-sehgal/Career-Path-Prediction/blob/master/TSR%20Final.pdf)
+- [Web App (private colleges)](https://sarthak-sehgal.github.io/Career-Path-Prediction/webapp/private.html)
+- [Web App (government colleges)](https://sarthak-sehgal.github.io/Career-Path-Prediction/webapp/government.html)
 
 ## Research report on Career Path Prediction using Machine Learning: An application in Indian setting
 ### Acknowledgements
@@ -15,4 +15,4 @@ Career counselling has become an important aspect due to the emergence of variou
 Sarthak Sehgal
 Ayush Agarwal
 
-[Click here to view full report.](https://github.com/sarthak-sehgal/TSR-Project-Data/blob/master/TSR%20Final.pdf)
+[Click here to view full report.](https://github.com/sarthak-sehgal/Career-Path-Prediction/blob/master/TSR%20Final.pdf)
